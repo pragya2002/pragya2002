@@ -5,8 +5,8 @@
 <a href="https://www.instagram.com/thisisprags/">
   <img align="left"  width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
   
-  <a href="">
-  <img align="left"  width="22px" src="" />
+  <a href="mailto:pragya.yss10@gmail.com">
+  <img align="left"  width="22px" src="http://assets.stickpng.com/images/5847fafdcef1014c0b5e48ce.png" />
 
 
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">

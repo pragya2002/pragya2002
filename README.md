@@ -8,7 +8,7 @@
   <a href="mailto:pragya.yss10@gmail.com">
   <img align="left"  width="27px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png" />
   
-  <a href="https://discord.com/channels/@me">
+  <a href="https://discord.gg/xanny#8074">
   <img align="left" alt="Pragya's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 

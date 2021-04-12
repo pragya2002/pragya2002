@@ -14,7 +14,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pragya2002.pragya2002)
 
-<br />
+
 #### I'm a student, newbie (but passionate) web developer and a dreamer from Lucknow, India. I am studying CSE with Specialization in Cyber Security at VIT, Vellore. 
 
 ### Spotify Playing 🎧

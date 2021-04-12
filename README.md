@@ -6,7 +6,7 @@
   <img align="left"  width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
   
   <a href="mailto:pragya.yss10@gmail.com">
-  <img align="left"  width="22px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png" />
+  <img align="left"  width="25px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png" />
 
 
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">

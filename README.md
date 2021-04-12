@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/pragya-awasthi-5274451b7/">
   <img align="left" alt="Pragya's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Pragya's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://https://mail.google.com/mail/u/0/#inbox">
+  <img align="left" alt="Pragya's Gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Pragya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

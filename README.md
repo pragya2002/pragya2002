@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/pragya-awasthi-5274451b7/">
   <img align="left" alt="Pragya's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://https://mail.google.com/mail/u/0/#inbox">
-  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+<a href="mailto:pragya.yss10@gmail.com">
+  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">

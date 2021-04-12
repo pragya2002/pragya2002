@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> this is Pragya!
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> this is Pragya!
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Pragya's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -13,7 +13,7 @@
 
 <br />
 
-# I'm a student, newbie (but passionate) web developer and a dreamer from Lucknow, India. I am studying CSE with Specialization in Cyber Security at VIT, Vellore. 
+#### I'm a student, newbie (but passionate) web developer and a dreamer from Lucknow, India. I am studying CSE with Specialization in Cyber Security at VIT, Vellore. 
 
 
 

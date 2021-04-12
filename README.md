@@ -15,7 +15,7 @@
 
 #### I'm a student, newbie (but passionate) web developer and a dreamer from Lucknow, India. I am studying CSE with Specialization in Cyber Security at VIT, Vellore. 
 
-
+<br> <br>
 
 ### Spotify Playing 🎧
 

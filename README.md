@@ -6,7 +6,7 @@
   <img align="left"  width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
   
   <a href="mailto:pragya.yss10@gmail.com">
-  <img align="left"  width="22px" src="https://www.pngjoy.com/pngm/143/2879931_email-logo-png-transparent-gmail-icon-png-png.png" />
+  <img align="left"  width="22px" src="https://www.clipartmax.com/png/middle/264-2640630_gmail-icon.png" />
 
 
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">

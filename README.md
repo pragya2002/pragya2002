@@ -3,7 +3,7 @@
   <img align="left" alt="Pragya's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://https://mail.google.com/mail/u/0/#inbox">
-  <img align="left" alt="Pragya's Gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/mail.svg" />
+  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/email.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Pragya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

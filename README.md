@@ -35,27 +35,7 @@ Hi, I'm Pragya, a student, newbie (but passionate) web developer and a dreamer f
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   11 hrs 39 mins  ████████████████▒░░░░░░░░   64.89 % 
-JSX          3 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-SCSS         2 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-```
-<!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,798 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 632 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 My GitHub Stats

@@ -1,4 +1,5 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> this is Pragya! <a href="https://discord.gg/XTW52Kt">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> this is Pragya! 
+<a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Pragya's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
@@ -8,7 +9,6 @@
   <img align="left" alt="Pragya's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=pragya2002.pragya2002)
 
 <br />
@@ -16,7 +16,7 @@
 #### I'm a student, newbie (but passionate) web developer and a dreamer from Lucknow, India. I am studying CSE with Specialization in Cyber Security at VIT, Vellore. 
 
 <br> 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 

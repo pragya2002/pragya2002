@@ -2,6 +2,9 @@
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Pragya's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Pragya's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Pragya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -12,7 +15,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=pragya2002.pragya2002)
 
 <br />
-
 #### I'm a student, newbie (but passionate) web developer and a dreamer from Lucknow, India. I am studying CSE with Specialization in Cyber Security at VIT, Vellore. 
 
 ### Spotify Playing 🎧

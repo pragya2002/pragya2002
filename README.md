@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators to participate in events and hacks!
-- 🥅 2021 Goals: Work on backend web development and brush up ios app development
+- 🥅 2021 Goals: Work on backend web development and brush up ios app development skills
 - ⚡ Fun fact: I'm your go to person for binge watching shows!!
 
 ## Spotify Playing 🎧

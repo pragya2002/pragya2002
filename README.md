@@ -18,21 +18,24 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=pragya2002.pragya2002)
 
 
-## I'm a student, newbie (but passionate) web developer and a dreamer from Lucknow, India. Currently, I am studying CSE with Specialization in Cyber Security at VIT, Vellore.
+### I'm a student, web developer and a dreamer from Lucknow, India. Currently, I am studying CSE with Specialization in Cyber Security at VIT, Vellore.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators to participate in events and hacks!
-- 🥅 2021 Goals: Work on backend web development and brush up ios app development skills
+- 🥅 2023 Goals: Brush up DSA concepts
 - ⚡ Fun fact: I'm your go to person for binge watching shows!!
 
+    
+## Leetcode Stats
+    
+[![Leetcode Stats](https://leetcard.jacoblin.cool/thisisprags?ext=heatmap)](https://leetcode.com/thisisprags/)
+ 
 ## Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l47ggaxp2646fops5izodxbkcm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]([https://github.com/kittinan/spotify-github-profile](https://open.spotify.com/user/31l47ggaxp2646fops5izodxbkcm))
-
- <br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l47ggaxp2646fops5izodxbkcm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31l47ggaxp2646fops5izodxbkcm)
 
 
-**Languages and Tools:**  
+## Languages and Tools: 
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -43,12 +46,9 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-
-
+    
 <br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/thisisprags?ext=heatmap)
-<br>
+    
  
 ## 📈 My GitHub Stats
 
